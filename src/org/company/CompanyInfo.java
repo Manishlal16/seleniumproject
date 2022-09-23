@@ -5,7 +5,7 @@ public class CompanyInfo {
 		System.out.println("CTS");
 	}
 public void CompanyId() {
-	System.out.println("12345");
+	System.out.println("1234545656");
 }
 public void CompanyAddress() {
 	System.out.println("xxxx");
